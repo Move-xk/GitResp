@@ -1,0 +1,6 @@
+url:10.3.6.248
+robotResourceId:6b1c7bf8-ae49-49dc-b0c5-a90a759078f2
+chargingStationResourceId:8f7c22a5-618c-44d3-90e1-183215a6ceeb
+chargin_station_markerId:cb0b934c-4552-422f-a199-d5b8e3881139
+threshold:99
+exe_times:10
