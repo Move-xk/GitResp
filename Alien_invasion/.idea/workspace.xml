@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d658b6d3-4363-4e49-ae03-a71db1ab11ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/xk/PycharmProjects/pythonProject/Alien_invasion",
+    "last_opened_file_path": "/home/xk/PycharmProjects/pythonProject/Date_analysis",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -174,11 +174,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.scoreboard" />
       <item itemvalue="Python.alien" />
       <item itemvalue="Python.alien_invasion" />
       <item itemvalue="Python.bullet" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.scoreboard" />
       <item itemvalue="Python.ship" />
     </list>
     <recent_temporary>
